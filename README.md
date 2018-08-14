@@ -1,2 +1,2 @@
 # GITTest
-Testing the functionalities of git git
+Testing the functionalities of git
