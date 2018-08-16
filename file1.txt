@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file cretaed in local.
+=======
+adding file one in remote.
+>>>>>>> 118ec77639fb31c0d9286b5fac3ede7e7becb3ac
